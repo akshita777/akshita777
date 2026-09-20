@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/akshita-verma-98a48723">
+<a href="https://www.linkedin.com/in/akshita-verma-98a48723a/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
 </a>
 
