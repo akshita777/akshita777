@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="220">
@@ -21,14 +19,6 @@
 </table>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+real+things+with+code;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Learning+DSA+one+problem+at+a+time" alt="Typing SVG"/>
-
-</div>
-<br>
-
-
-
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+real+things+with+code;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Learning+one+problem+at+a+time" alt="Typing SVG"/>
@@ -59,7 +49,6 @@ I learn best by building real projects, debugging problems, and understanding th
 ---
 
 ## Tech Stack
-
 
 <div align="center">
 
@@ -141,9 +130,5 @@ Backend
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
 
 
