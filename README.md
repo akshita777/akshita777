@@ -36,8 +36,6 @@ I'm a developer who enjoys building practical software and understanding what ha
 
 Currently, I'm focused on strengthening my foundations in **Java, Data Structures & Algorithms, Backend Development, SQL, and Full-Stack Development**.
 
-I learn best by building real projects, debugging problems, and understanding the reasoning behind the solution instead of simply memorizing it.
-
 
 
 ## Tech Stack
