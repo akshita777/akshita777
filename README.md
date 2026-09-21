@@ -5,15 +5,15 @@
 
 <td align="left" valign="middle" width="300">
 
-<h1><i>𝗔𝗞𝗦𝗛𝗜𝗧𝗔<i></i></h1>
+<h1>AKSHITA</h1>
 
-<h6>JAVA | BACKEND | FULL STACK</h6>
+<h3>JAVA | BACKEND | FULL STACK</h3>
 
 <a href="https://github.com/akshita777">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/akshita-verma-98a48723a/">
+<a href="https://www.linkedin.com/in/akshita-verma-98a48723">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
 </a>
 
@@ -35,6 +35,8 @@
 I'm a developer who enjoys building practical software and understanding what happens behind the code.
 
 Currently, I'm focused on strengthening my foundations in **Java, Data Structures & Algorithms, Backend Development, SQL, and Full-Stack Development**.
+
+I learn best by building real projects, debugging problems, and understanding the reasoning behind the solution instead of simply memorizing it.
 
 
 
