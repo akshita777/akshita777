@@ -5,7 +5,7 @@
 
 <td align="left" valign="middle" width="300">
 
-<h1><i>𝙰𝙺𝚂𝙷𝙸𝚃𝙰<i></i></h1>
+<h1><i>𝗔𝗞𝗦𝗛𝗜𝗧𝗔<i></i></h1>
 
 <h6>JAVA | BACKEND | FULL STACK</h6>
 
