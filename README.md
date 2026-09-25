@@ -95,19 +95,6 @@ Backend
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=akshita777&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshita777&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=akshita777&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
